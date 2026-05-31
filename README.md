@@ -192,5 +192,4 @@ This workflow is useful for:
 
 Himanshu Paithane
 
-Master of Science in Computer Science  
-Stevens Institute of Technology
+
